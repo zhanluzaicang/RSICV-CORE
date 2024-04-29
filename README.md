@@ -1,3 +1,3 @@
-一个rsicv核的verilog设计，
+一个risc-v核的verilog设计，
 core中包含了取指->译码->执行阶段代码。
 项目还在开发学习中。。。
